@@ -1,3 +1,3 @@
 module.exports = [
-    require("./hello.route")
+    require("./hello.routes")
 ]
